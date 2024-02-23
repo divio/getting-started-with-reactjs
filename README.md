@@ -2,7 +2,7 @@
 
 [![Deploy to Divio](https://img.shields.io/badge/DEPLOY-TO%20DIVIO-DFFF67?logo=docker&logoColor=white&labelColor=333333)](https://control.divio.com/app/new/?template_url=https://github.com/divio/getting-started-with-nodejs-reactjs/archive/refs/heads/main.zip)
 
-Welcome to our QuickStart template – your portal to swift application development and seamless local testing. Whether you're delving into React for the first time or optimizing your workflow, our template, based on [Start a New React Project](https://react.dev/learn/start-a-new-react-project) using Next.js, has got you covered.
+Welcome to our QuickStart template – your portal to swift application development and seamless local testing. Whether you're delving into React for the first time or optimizing your workflow, our template, based on Vite' [Getting Started](https://vitejs.dev/guide/#getting-started) using Next.js, has got you covered.
 
 ## Cloud Setup
 
