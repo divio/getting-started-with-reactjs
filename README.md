@@ -1,6 +1,6 @@
 # Getting Started with React
 
-[![Deploy to Divio](https://docs.divio.com/deploy-to-divio.svg)](https://control.divio.com/app/new/?template_url=https://github.com/divio/getting-started-with-nodejs-reactjs/archive/refs/heads/main.zip)
+[![Deploy to Divio](https://docs.divio.com/deploy-to-divio.svg)](https://control.divio.com/app/new/?template_url=https://github.com/divio/getting-started-reactjs/archive/refs/heads/main.zip)
 
 Welcome to our QuickStart template – your portal to swift application development and seamless local testing. Whether you're delving into React for the first time or optimizing your workflow, our template, based on Vite' [Getting Started](https://vitejs.dev/guide/#getting-started) using Next.js, has got you covered.
 
